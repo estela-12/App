@@ -43,5 +43,9 @@ public class RegistroVista extends JFrame {
 		JButton btnNewButton = new JButton("Ayuda");
 		btnNewButton.setBounds(107, 142, 89, 23);
 		contentPane.add(btnNewButton);
+		
+		JButton btnNewButton_1 = new JButton("Holiii");
+		btnNewButton_1.setBounds(107, 75, 89, 23);
+		contentPane.add(btnNewButton_1);
 	}
 }
